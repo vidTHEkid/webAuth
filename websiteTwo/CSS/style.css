@@ -1,0 +1,32 @@
+
+.rect{
+    text-align: center;
+    
+    background-color: bisque;
+    border: 3px solid #A40000;
+    border-radius: 40px;
+    
+    height: auto;
+    width: 600px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+    
+}
+
+#h1{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+#p{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+#link{
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+}
